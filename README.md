@@ -73,7 +73,7 @@ A comprehensive **full-stack MERN application** for modern canteen management wi
 
 ### 1️⃣ **Clone Repository**
 ```bash
-git clone https://github.com/Sindhura-Karumuri/Mern-Project.git
+git clone https://github.com/BorraHemaPriya18/MernProject.git
 cd Mern-Project
 ```
 
